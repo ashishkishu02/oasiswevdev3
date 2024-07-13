@@ -1,2 +1,1 @@
-# oasiswevdev3
-This is the Task 3 of Level 3 of Web Designing Internship.
+This is a basic frontend project where I have made an about page using HTML and CSS.
